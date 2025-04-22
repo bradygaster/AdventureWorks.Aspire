@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AdventureWorks.ServiceDefaults\AdventureWorks.ServiceDefaults.csproj" />
+  </ItemGroup>
+
 </Project>
